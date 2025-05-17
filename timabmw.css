@@ -1,12 +1,22 @@
 .sahyr{ background-color: bisque;
+    width: 755px;
+    height: 242px;
 }
 .revs{ 
     display: flex;
 }
 .capucapuhinoosasino{
-    width: 495px;
+    width: 800px;
     height: 138px; ;
 }
 .caboom{
     width: 536px;
+}
+.hg{
+    height: 5px;
+    background-color: gray;
+}
+.pot{
+    width: 495px;
+    height: 138px;
 }
